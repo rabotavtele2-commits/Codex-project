@@ -1,0 +1,29 @@
+.app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+main {
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+}
